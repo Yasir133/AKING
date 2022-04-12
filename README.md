@@ -21,7 +21,7 @@ pip inatall Mechanize
 
 rm -rf AKING
 
-git clone https://github.com/AKING110/AKING
+git clone https://github.com/Yasir133/AKING
 
 cd AKING
 
